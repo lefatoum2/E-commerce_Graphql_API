@@ -1,5 +1,5 @@
 ## Installation 
-
+![img6](./images/django-stripe-social.png)
 ```
 virtualenv venv
 .\venv\Scripts\activate

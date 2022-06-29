@@ -26,6 +26,8 @@ pip install graphene-django
 django-admin startproject core
 cd core
 django-admin startapp products
+py manage.py startapp orders
+py manage.py startapp carts
 ```
 
 settings.py 
@@ -121,10 +123,6 @@ urlpatterns = [
 https://sk-soyeb-akhter.medium.com/e-commerce-graphql-api-with-django-python-a9ef74fad4b
 
 
-```
-python manage.py startapp orders
-python manage.py startapp carts
-```
 
 orders/models.py :
 

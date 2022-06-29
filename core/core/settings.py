@@ -126,3 +126,8 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/media/' # ajout
 MEDIA_ROOT = BASE_DIR / 'media/' # ajout
+
+
+GRAPHENE = {
+    "SCHEMA": "core.schema.schema"
+}

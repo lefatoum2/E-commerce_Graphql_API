@@ -1,6 +1,6 @@
 ## GRAPHQL (Graphene Framework)
 
-![img6](https://www.klanik.com/wp-content/uploads/2021/04/GraphQL-logo.png)
+![img6](https://kinsta.com/wp-content/uploads/2022/09/graphql.png)
 
 GraphQl est un langage de requête crée par Facebook . Il améliore l'architecture API REST et permet un retour des données sur différents shémas.
 
